@@ -1,0 +1,59 @@
+{
+    "cardData": [
+        {
+           "id"  : 1,
+            "image": "../5.jpg",
+            "caption": "Slide 1",
+            "cardtitle" :"First Example",
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+          },
+          {
+            "id" : 2,
+            "image": "../3.jpg",
+            "caption": "Slide 1",
+            "cardtitle" :"S Example",
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+          },
+          {
+            "id" : 3,
+            "image": "./4.jpg",
+            "caption": "Slide 1",
+            "cardtitle" :"Third Example",
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+
+          },
+          {
+            "id" : 4,
+            "image": "../2.jpeg",
+            "caption": "Slide 1",
+            "cardtitle" :"Fourth Example",
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+
+          },
+          {
+            "id" : 5,
+            "image": "../5.jpg",
+            "caption": "Slide 1",
+            "cardtitle" :"Fifth Example",
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+
+          },
+          {
+            "id" : 6,
+            "image": "../2.jpeg",
+            "caption": "Slide 2",
+            "cardtitle" :"Sixth Example",
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+
+          },
+          {
+            "id" : 7,
+            "image": "../3.jpg",
+            "caption": "Slide 3",
+            "cardtitle" :"Seventh Example",            
+            "detail" :"This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page.This is the details of this card display in this page."
+
+          }
+        
+    ]
+  }
